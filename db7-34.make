@@ -265,3 +265,9 @@ libraries[underscore][download][url] = ""
 libraries[underscore][directory_name] = "underscore"
 libraries[underscore][type] = "library"
 
+; Please fill the following out. Type may be one of get, git, bzr or svn,
+; and url is the url of the download.
+libraries[hybridauth][download][type] = ""
+libraries[hybridauth][download][url] = ""
+libraries[hybridauth][directory_name] = "hybridauth"
+libraries[hybridauth][type] = "library"
