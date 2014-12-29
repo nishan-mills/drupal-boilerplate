@@ -166,7 +166,7 @@ projects[masonry][subdir] = "contrib"
 
 projects[masonry_fields][subdir] = "contrib"
 
-projects[masonry_fields][subdir] = "contrib"
+projects[masonry_views][subdir] = "contrib"
 
 projects[masonry_search][subdir] = "contrib"
 
