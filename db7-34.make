@@ -172,6 +172,8 @@ projects[masonry_search][subdir] = "contrib"
 
 projects[views_timelinejs][subdir] = "contrib"
 
+projects[Field_formatter_settings][subdir] = "contrib"
+
 ; Themes
 
 projects[] = "zen"
